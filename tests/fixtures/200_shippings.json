@@ -1,0 +1,212 @@
+{
+  "nextPageId": "asbajhbd-123-sfasf-85h5hh-asddsad",
+  "items": [
+    {
+      "shippingId": "15562302161051079717688",
+      "confirmationCode": "141150433",
+      "isTest": false,
+      "referenceId": "Reference 123",
+      "status": "CANCELLED",
+      "cancelReason": "Canceled by user",
+      "cancelCode": "USER_CANCELLED",
+      "createdAt": "2023-02-16T10:51:07Z",
+      "lastUpdated": "2023-02-16T11:23:46Z",
+      "proofOfDelivery": false,
+      "shareLocationUrl": "https://example-courier-web.pedidosya.com.uy/tracking/ME1NTY=",
+      "notificationMail": "email@email.com",
+      "onlineSupportUrl": "[DEPRECATED] - This field is DEPRECATED. Now to access at online support is necessary enter at web courier business https://envios.pedidosya.com, log in with your credentials, and navigate to the 'Mis envíos' section",
+      "items": [
+        {
+          "value": 500.0,
+          "description": "Teclado mecánico Anne Pro 2",
+          "sku": "ABC123",
+          "volume": 1.0,
+          "weight": 1.0,
+          "quantity": 2,
+          "type": "STANDARD"
+        },
+        {
+          "value": 100.0,
+          "description": "Teclado mecánico Anne Pro 2",
+          "sku": "ABC124",
+          "volume": 1.0,
+          "weight": 1.0,
+          "quantity": 2,
+          "type": "STANDARD"
+        }
+      ],
+      "waypoints": [
+        {
+          "type": "PICK_UP",
+          "addressStreet": "Marco Bruto 1210",
+          "city": "Montevideo",
+          "latitude": -34.9057308,
+          "longitude": -56.1381682,
+          "phone": "+5981135344343",
+          "name": "jorge guitierrez",
+          "instructions": "prueta verde "
+        },
+        {
+          "type": "DROP_OFF",
+          "addressStreet": "Marco Bruto 1200",
+          "city": "Montevideo",
+          "latitude": -34.9061331,
+          "longitude": -56.1381033,
+          "phone": "+541144154415",
+          "name": "martin test"
+        }
+      ],
+      "route": {
+        "deliveryMode": "CROSS_DOCKING",
+        "estimatedPickUpTime": "2023-02-16T13:00:00Z",
+        "estimatedDrivingTime": 120,
+        "deliveryTimeFrom": "2023-02-16T15:00:00Z",
+        "deliveryTimeTo": "2023-02-16T18:00:00Z",
+        "distance": 54,
+        "pricing": {
+          "subTotal": 180.0,
+          "taxes": 0.0,
+          "total": 180.0,
+          "currency": "UYU"
+        }
+      }
+    },
+    {
+      "shippingId": "15562302161927091277656",
+      "isTest": false,
+      "referenceId": "TestIsTestFalse",
+      "createdAt": "2023-02-16T19:27:09Z",
+      "lastUpdated": "2023-02-16T19:27:09Z",
+      "status": "CONFIRMED",
+      "confirmationCode": "141150632",
+      "proofOfDelivery": false,
+      "shareLocationUrl": "https://example-courier-web.pedidosya.com.uy/tracking/zE1NTY=",
+      "notificationMail": "other@gmail.com",
+      "onlineSupportUrl": "[DEPRECATED] - This field is DEPRECATED. Now to access at online support is necessary enter at web courier business https://envios.pedidosya.com, log in with your credentials, and navigate to the 'Mis envíos' section",
+      "items": [
+        {
+          "value": 500.0,
+          "description": "Teclado mecánico Anne Pro 2",
+          "sku": "ABC123",
+          "volume": 1.0,
+          "weight": 1.0,
+          "quantity": 2,
+          "type": "STANDARD"
+        },
+        {
+          "value": 100.0,
+          "description": "Teclado mecánico Anne Pro 2",
+          "sku": "ABC124",
+          "volume": 1.0,
+          "weight": 1.0,
+          "quantity": 2,
+          "type": "STANDARD"
+        }
+      ],
+      "waypoints": [
+        {
+          "type": "PICK_UP",
+          "addressStreet": "Marco Bruto 1210",
+          "city": "Montevideo",
+          "latitude": -34.9057308,
+          "longitude": -56.1381682,
+          "phone": "+5981135344343",
+          "name": "jorge guitierrez",
+          "instructions": "prueta verde "
+        },
+        {
+          "type": "DROP_OFF",
+          "addressStreet": "Marco Bruto 1200",
+          "city": "Montevideo",
+          "latitude": -34.9061331,
+          "longitude": -56.1381033,
+          "phone": "+541144154415",
+          "name": "martin test"
+        }
+      ],
+      "route": {
+        "deliveryMode": "CROSS_DOCKING",
+        "estimatedPickUpTime": "2023-02-17T13:00:00Z",
+        "estimatedDrivingTime": 120,
+        "deliveryTimeFrom": "2023-02-17T15:00:00Z",
+        "deliveryTimeTo": "2023-02-17T18:00:00Z",
+        "distance": 54,
+        "pricing": {
+          "subTotal": 180.0,
+          "taxes": 0.0,
+          "total": 180.0,
+          "currency": "UYU"
+        }
+      }
+    },
+    {
+      "shippingId": "15562302161933300562594",
+      "isTest": false,
+      "referenceId": "TestIsTestFalse",
+      "createdAt": "2023-02-16T19:33:30Z",
+      "lastUpdated": "2023-02-16T22:55:42Z",
+      "status": "CANCELLED",
+      "confirmationCode": "141150634",
+      "cancelReason": "Test",
+      "cancelCode": "USER_CANCELLED",
+      "proofOfDelivery": false,
+      "shareLocationUrl": "https://example-courier-web.pedidosya.com.uy/tracking/NTY=",
+      "onlineSupportUrl": "[DEPRECATED] - This field is DEPRECATED. Now to access at online support is necessary enter at web courier business https://envios.pedidosya.com, log in with your credentials, and navigate to the 'Mis envíos' section",
+      "items": [
+        {
+          "value": 500.0,
+          "description": "Teclado mecánico Anne Pro 2",
+          "sku": "ABC123",
+          "volume": 1.0,
+          "weight": 1.0,
+          "quantity": 2,
+          "type": "STANDARD"
+        },
+        {
+          "value": 100.0,
+          "description": "Teclado mecánico Anne Pro 2",
+          "sku": "ABC124",
+          "volume": 1.0,
+          "weight": 1.0,
+          "quantity": 2,
+          "type": "STANDARD"
+        }
+      ],
+      "waypoints": [
+        {
+          "type": "PICK_UP",
+          "addressStreet": "Marco Bruto 1210",
+          "city": "Montevideo",
+          "latitude": -34.9057308,
+          "longitude": -56.1381682,
+          "phone": "+5981135344343",
+          "name": "jorge guitierrez",
+          "instructions": "prueta verde "
+        },
+        {
+          "type": "DROP_OFF",
+          "addressStreet": "Marco Bruto 1200",
+          "city": "Montevideo",
+          "latitude": -34.9061331,
+          "longitude": -56.1381033,
+          "phone": "+541144154415",
+          "name": "martin test"
+        }
+      ],
+      "route": {
+        "deliveryMode": "CROSS_DOCKING",
+        "estimatedPickUpTime": "2023-02-17T13:00:00Z",
+        "estimatedDrivingTime": 120,
+        "deliveryTimeFrom": "2023-02-17T15:00:00Z",
+        "deliveryTimeTo": "2023-02-17T18:00:00Z",
+        "distance": 54,
+        "pricing": {
+          "subTotal": 180.0,
+          "taxes": 0.0,
+          "total": 180.0,
+          "currency": "UYU"
+        }
+      }
+    }
+  ]
+}

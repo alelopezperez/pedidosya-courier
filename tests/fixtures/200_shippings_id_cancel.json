@@ -1,0 +1,70 @@
+{
+  "shippingId": "15562302161933300562594",
+  "isTest": false,
+  "referenceId": "Order 1234",
+  "createdAt": "2023-02-16T19:33:30Z",
+  "lastUpdated": "2023-02-16T22:55:42Z",
+  "status": "CANCELLED",
+  "confirmationCode": "141150634",
+  "cancelReason": "Cancelado por el usuario",
+  "cancelCode": "USER_CANCELLED",
+  "proofOfDelivery": false,
+  "shareLocationUrl": "https://example-courier-web.pedidosya.com.uy/tracking/QVBJIzE1NTY=",
+  "notificationMail": "example@example.com",
+  "onlineSupportUrl": "[DEPRECATED] - This field is DEPRECATED. Now to access at online support is necessary enter at web courier business https://envios.pedidosya.com, log in with your credentials, and navigate to the 'Mis envíos' section",
+  "items": [
+    {
+      "value": 500.0,
+      "description": "Teclado mecánico Anne Pro 2",
+      "sku": "ABC123",
+      "volume": 1.0,
+      "weight": 1.0,
+      "quantity": 2,
+      "type": "STANDARD"
+    },
+    {
+      "value": 100.0,
+      "description": "Teclado mecánico Anne Pro 2",
+      "sku": "ABC122",
+      "volume": 1.0,
+      "weight": 1.0,
+      "quantity": 2,
+      "type": "STANDARD"
+    }
+  ],
+  "waypoints": [
+    {
+      "type": "PICK_UP",
+      "addressStreet": "Marco Bruto 1210",
+      "city": "Montevideo",
+      "latitude": -34.9057308,
+      "longitude": -56.1381682,
+      "phone": "+5981135344343",
+      "name": "jorge guitierrez",
+      "instructions": "prueta verde "
+    },
+    {
+      "type": "DROP_OFF",
+      "addressStreet": "Marco Bruto 1200",
+      "city": "Montevideo",
+      "latitude": -34.9061331,
+      "longitude": -56.1381033,
+      "phone": "+541144154415",
+      "name": "martin test"
+    }
+  ],
+  "route": {
+    "deliveryMode": "CROSS_DOCKING",
+    "estimatedPickUpTime": "2023-02-17T13:00:00Z",
+    "estimatedDrivingTime": 120,
+    "deliveryTimeFrom": "2023-02-17T15:00:00Z",
+    "deliveryTimeTo": "2023-02-17T18:00:00Z",
+    "distance": 54,
+    "pricing": {
+      "subTotal": 180.0,
+      "taxes": 0.0,
+      "total": 180.0,
+      "currency": "UYU"
+    }
+  }
+}

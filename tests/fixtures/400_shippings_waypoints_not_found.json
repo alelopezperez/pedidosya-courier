@@ -1,0 +1,5 @@
+{
+  "status": 400,
+  "message": "We were not able to find lat/long for waypoint/s in order: 1",
+  "code": "WAYPOINTS_NOT_FOUND"
+}

@@ -1,0 +1,9 @@
+{
+  "status": 400,
+  "message": "Max distance exceeded. The max distance allowed is 10000",
+  "code": "MAX_DISTANCE_EXCEEDED",
+  "details": {
+    "maxDistanceAllowed": 10000,
+    "totalDistance": 120000
+  }
+}

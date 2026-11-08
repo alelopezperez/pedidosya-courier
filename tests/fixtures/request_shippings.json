@@ -1,0 +1,53 @@
+{
+  "referenceId": "Client Internal Reference",
+  "isTest": true,
+  "notificationMail": "email@email.com",
+  "items": [
+    {
+      "type": "STANDARD",
+      "value": 1250.6,
+      "description": "Some book.",
+      "sku": "ABC123",
+      "quantity": 1,
+      "volume": 10.01,
+      "weight": 0.5
+    },
+    {
+      "type": "STANDARD",
+      "value": 250,
+      "description": "T-Shirt",
+      "sku": "ABC124",
+      "quantity": 1,
+      "volume": 10.01,
+      "weight": 0.3
+    }
+  ],
+  "waypoints": [
+    {
+      "type": "PICK_UP",
+      "addressStreet": "Plaza Independencia 755",
+      "addressAdditional": "Piso 6 Recepción",
+      "city": "Montevideo",
+      "latitude": -34.905988,
+      "longitude": -56.199592,
+      "phone": "+59898765432",
+      "name": "Oficina Ciudad Vieja",
+      "instructions": "El ascensor esta roto."
+    },
+    {
+      "type": "DROP_OFF",
+      "latitude": -34.9138414,
+      "longitude": -56.1837661,
+      "addressStreet": "La Cumparsita 1475",
+      "addressAdditional": "Piso 1, Oficina Delivery",
+      "city": "Montevideo",
+      "phone": "+59812345678",
+      "name": "Agustin",
+      "instructions": "Entregar en mano",
+      "collectMoney": 200.0
+    }
+  ],
+  "requirements": {
+    "includeDeliveryFee": true
+  }
+}

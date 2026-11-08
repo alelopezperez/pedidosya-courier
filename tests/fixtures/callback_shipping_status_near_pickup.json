@@ -1,0 +1,12 @@
+{
+  "topic": "SHIPPING_STATUS",
+  "id": "ASDF-12345678",
+  "referenceId": "Client Internal Reference",
+  "generated": "2020-06-24T19:00:00Z",
+  "transmitted": "2020-06-24T19:08:00Z",
+  "data": {
+    "status": "NEAR_PICKUP",
+    "estimatedPickUpTime": "2020-06-24T19:32:28Z",
+    "estimatedDropOffTime": "2020-06-24T19:45:28Z"
+  }
+}

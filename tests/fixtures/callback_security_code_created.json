@@ -1,0 +1,16 @@
+{
+  "topic": "SHIPPING_STATUS",
+  "id": "15562302281527156893283",
+  "referenceId": "6543216354",
+  "confirmationCode": "9869921368",
+  "generated": "2023-03-01T10:27:17Z",
+  "data": {
+    "status": "SECURITY_CODE_CREATED",
+    "estimatedPickUpTime": "2023-03-01T15:00:00Z",
+    "estimatedDropOffTime": "2023-03-01T15:00:00Z",
+    "securityType": "PIN",
+    "securityCode": "65421"
+  },
+  "transmitted": "2023-03-01T10:27:17Z",
+  "isTest": true
+}

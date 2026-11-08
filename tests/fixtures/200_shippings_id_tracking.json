@@ -1,0 +1,8 @@
+{
+  "latitude": -34.905988,
+  "longitude": -56.199592,
+  "deliveryName": "Tim",
+  "estimatedPickUpTime": "2020-07-21T17:32:28Z",
+  "estimatedDropOffTime": "2020-07-21T17:40:28Z",
+  "deliveryTransport": "Bike"
+}
